@@ -8,7 +8,7 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
 
 <!-- Última versión (Release) -->
-[![Release](https://img.shields.io/github/v/release/TU_USUARIO/TU_REPO?label=release)](https://github.com/TU_USUARIO/TU_REPO/releases)
+[![Release](https://img.shields.io/github/v/release/ilermaaz/tfg-neumonia-cnn?label=release)](https://github.com/ilermaaz/tfg-neumonia-cnn/releases)
 
 <!-- DOI (cuando lo emitas con Zenodo) -->
 [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)](#)
