@@ -14,12 +14,12 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 3. La estructura de carpetas es la siguiente:
 
 chest_xray/
-|-- train/
-|   |-- NORMAL/
-|   `-- PNEUMONIA/
-|-- val/
-|   |-- NORMAL/
-|   `-- PNEUMONIA/
-`-- test/
-    |-- NORMAL/
-    `-- PNEUMONIA/
+├── train/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
+├── val/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
+└── test/
+    ├── NORMAL/
+    └── PNEUMONIA/
