@@ -1,6 +1,6 @@
 # data/
 
-En esta carpeta irán los datos utilizados para entrenar y evaluar los modelos.  
+En esta carpeta se muestran los datos utilizados para entrenar y evaluar los modelos.  
 Por limitaciones de tamaño, el dataset no está incluido en este repositorio.   
 El dataset está disponible públicamente bajo licencia CC BY 4.0, más detalles en la página oficial del dataset.
 
