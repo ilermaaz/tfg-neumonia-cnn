@@ -1,4 +1,4 @@
-# models/
+# Models
 
 Aquí irían los modelos entrenados (`.h5`).
 
