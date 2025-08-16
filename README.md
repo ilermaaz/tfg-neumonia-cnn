@@ -1,3 +1,19 @@
+<!-- Licencia (MIT) -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+
+<!-- Lenguaje principal (Python) -->
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+
+<!-- Jupyter Notebook (porque el repo principal es .ipynb) -->
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
+
+<!-- Última versión (Release) -->
+[![Release](https://img.shields.io/github/v/release/TU_USUARIO/TU_REPO?label=release)](https://github.com/TU_USUARIO/TU_REPO/releases)
+
+<!-- DOI (cuando lo emitas con Zenodo) -->
+[![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)](#)
+
+
 🚀 *Repositorio del TFG sobre clasificación de neumonía en rayos X usando CNN personalizada y transfer learning (DenseNet121 y ResNet101). Incluye notebooks, resultados y guías para reproducir los experimentos.*  
 
 # Clasificación de Neumonía en Rayos X (TFG)
