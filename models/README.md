@@ -9,7 +9,7 @@ En este repositorio **no se incluyen los pesos entrenados** porque:
 Los modelos pueden regenerarse fácilmente ejecutando los notebooks en `notebooks/`.  
 
 ## Modelos utilizados en este trabajo
-- **Custom CNN** (entrenada desde cero).  
+- **Custom CNN** (diseñada y entrenada desde cero).  
 - **DenseNet121**  
   - Feature Extraction (FE)  
   - Fine Tuning (FT)  
