@@ -15,11 +15,11 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 chest_xray/
 ├── train/
-│ ├── NORMAL/
-│ └── PNEUMONIA/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
 ├── val/
-│ ├── NORMAL/
-│ └── PNEUMONIA/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
 └── test/
-├── NORMAL/
-└── PNEUMONIA/
+    ├── NORMAL/
+    └── PNEUMONIA/
