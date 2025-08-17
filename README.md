@@ -33,7 +33,6 @@ Los experimentos se realizaron con múltiples semillas (0–4) para asegurar la 
 - `models/` → (no incluye pesos, solo documentación)  
 - `data/` → instrucciones para descargar el dataset.  
 
----
 
 ## Resultados 
 
@@ -45,7 +44,6 @@ Los experimentos se realizaron con múltiples semillas (0–4) para asegurar la 
   - Matrices de confusión por modelo.
   - Ejemplos de resultados finales, correctos e incorrectos
 
----
 
 ## Datos
 
@@ -58,7 +56,6 @@ Está disponible públicamente bajo licencia **CC BY 4.0**, más detalles en la 
 - División de datos en train/val/test fija.  
 - Se aplicaron técnicas de balanceo de clases y data augmentation.
 
----
 
 ## Citar  
 
@@ -67,5 +64,3 @@ Está disponible públicamente bajo licencia **CC BY 4.0**, más detalles en la 
 > Título: *Clasificación de Neumonía en imágenes de Rayos X con CNN y Transfer Learning*   
 > Universidad: [Universidad de Córdoba](https://www.uco.es)  
 > Año: 2025  
-
----
