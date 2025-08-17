@@ -10,7 +10,7 @@
 
 Este repositorio contiene el Trabajo de Fin de Grado (TFG) orientado a la detección de neumonía a traves de imágenes de rayos X de tórax, usando para ello **redes neuronales convolucionales (CNN)** y **transfer learning**.
 
-Se ha trabajado con una **CNN personalizada**, construida y entrenada desde cero con pesos iniciales aleatorios, asi como con los modelos **DenseNet121** y **ResNet101**, evaluando **Feature Extraction (FE)** y **Fine Tuning (FT)**.
+Se ha trabajado con una **CNN personalizada**, construida y entrenada desde cero con pesos iniciales aleatorios, asi como con los modelos **DenseNet121** y **ResNet101**, evaluando **Feature Extraction (FE)** y **Fine Tuning (FT)**. Para hacer un análisis posterior entre modelos y técnicas.
  
 Los experimentos se realizaron con múltiples semillas (0–4) para asegurar la robustez de los resultados, aleatorizando tanto los datos como la inicialización de los modelos.
 
