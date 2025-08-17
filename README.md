@@ -62,9 +62,7 @@ Está disponible públicamente bajo licencia **CC BY 4.0**, más detalles en la 
 
 ---
 
-## Citar
-
-Si utilizas este repositorio o parte del código, por favor cita:  
+## Citar  
 
 > Autor: *Isidro Lerma Sanz*  
 > Tutores: *Víctor Manuel Vargas Yun*, *Rafael Ayllón Gavilán*   
