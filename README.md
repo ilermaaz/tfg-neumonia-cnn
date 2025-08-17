@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
 [![Release](https://img.shields.io/github/v/release/ilermaaz/tfg-neumonia-cnn?label=release)](https://github.com/ilermaaz/tfg-neumonia-cnn/releases)
-![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16890850.svg)](https://doi.org/10.5281/zenodo.16890850)
 
 
 # Clasificación de Neumonía en imágenes de Rayos X con CNN y Transfer Learning
