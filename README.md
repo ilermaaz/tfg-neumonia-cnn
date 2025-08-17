@@ -68,7 +68,7 @@ Si utilizas este repositorio o parte del código, por favor cita:
 
 > Autor: *Isidro Lerma Sanz*  
 > Tutores: *Víctor Manuel Vargas Yun*, *Rafael Ayllón Gavilán*   
-> Título: *Clasificación de Neumonía en imágenes de Rayos X con CNN y Transfer Learning* 
+> Título: *Clasificación de Neumonía en imágenes de Rayos X con CNN y Transfer Learning*   
 > Universidad: [Universidad de Córdoba](https://www.uco.es)  
 > Año: 2025  
 
