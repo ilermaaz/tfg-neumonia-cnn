@@ -14,7 +14,6 @@ Se ha trabajado con una **CNN personalizada**, construida y entrenada desde cero
  
 Los experimentos se realizaron con múltiples semillas (0–4) para asegurar la robustez de los resultados, aleatorizando tanto los datos como la inicialización de los modelos.
 
----
 
 ## Modelos utilizados
 
@@ -26,7 +25,6 @@ Los experimentos se realizaron con múltiples semillas (0–4) para asegurar la 
   - Feature Extraction (FE)  
   - Fine Tuning (FT)  
 
----
 
 ## Estructura del repositorio
 
