@@ -16,5 +16,3 @@ Los modelos pueden regenerarse fácilmente ejecutando los notebooks en `notebook
 - **ResNet101**  
   - Feature Extraction (FE)  
   - Fine Tuning (FT)  
-
-En el futuro, si se desea publicar los pesos, podrían añadirse aquí como *release* de GitHub o mediante [Git LFS](https://git-lfs.com/).
